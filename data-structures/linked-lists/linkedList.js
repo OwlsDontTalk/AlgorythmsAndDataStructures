@@ -13,13 +13,14 @@ class LinkedList {
     // Add a node to the end of the list
     append(value) {
         const newNode = new Node(value);
-        if (!this.head) {
+
+        if (this.head === null) {
             this.head = newNode;
             return;
         }
 
         let current = this.head;
-        while (current.next) {
+        while (current.next !== null) {
             current = current.next;
         }
         current.next = newNode;
@@ -28,7 +29,7 @@ class LinkedList {
     // Print the linked list
     print() {
         let current = this.head;
-        while (current) {
+        while (current !== null) {
             console.log(current.value);
             current = current.next;
         }
