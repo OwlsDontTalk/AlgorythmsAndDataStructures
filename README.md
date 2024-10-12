@@ -7,5 +7,13 @@ This repository contains various data structures and algorithms implemented in J
 
 ## Structure
 
-- `data-structures/`: Contains implementations and explanations of data structures.
-- `algorithms/`: Contains sorting, searching, and other algorithm examples.
+### Data Structures:
+- [Arrays](./data-structures/arrays/README.md)
+- [Linked Lists](./data-structures/linked-lists/README.md)
+
+### Algorithms:
+- (To be added...)
+
+Each folder contains:
+- A `README.md` with detailed information about the data structure or algorithm.
+- A JavaScript file with the implementation.
