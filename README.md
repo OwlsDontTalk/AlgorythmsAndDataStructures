@@ -10,6 +10,7 @@ This repository contains various data structures and algorithms implemented in J
 ### Data Structures:
 - [Arrays](./data-structures/arrays/README.md)
 - [Linked Lists](./data-structures/linked-lists/README.md)
+- [Stacks](./data-structures/stacks/README.md)
 
 ### Algorithms:
 - (To be added...)
