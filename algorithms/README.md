@@ -4,6 +4,7 @@ This file tracks the progress of algorithms implemented in the repository. Each 
 - **Description**: What the algorithm does.
 - **Use Case**: When and where to use it.
 - **Implementation**: Example in JavaScript.
+- [Few words about complexity](./COMPLEXITY.md)
 
 ## Sorting Algorithms:
 - [x] Bubble Sort
