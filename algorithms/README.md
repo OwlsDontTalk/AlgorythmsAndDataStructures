@@ -7,7 +7,7 @@ This file tracks the progress of algorithms implemented in the repository. Each 
 
 ## Sorting Algorithms:
 - [x] Bubble Sort
-- [ ] Selection Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
