@@ -7,8 +7,8 @@ This file tracks the progress of algorithms implemented in the repository. Each 
 - [Few words about complexity](./COMPLEXITY.md)
 
 ## Sorting Algorithms:
-- [x] Bubble Sort
-- [x] Selection Sort
+- [x] [Bubble Sort](./sorting/README.md)
+- [x] [Selection Sort](./sorting/README.md)
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort

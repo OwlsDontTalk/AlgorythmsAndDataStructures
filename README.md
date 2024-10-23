@@ -15,7 +15,7 @@ This repository contains various data structures and algorithms implemented in J
 - [Hash Tables](./data-structures/hash-tables/README.md)
 
 ### Algorithms:
-- (To be added...)
+- [Algorithms](./algorithms/README.md)
 
 Each folder contains:
 - A `README.md` with detailed information about the data structure or algorithm.
