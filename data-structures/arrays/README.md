@@ -8,6 +8,12 @@ An array is a collection of items stored at contiguous memory locations. Arrays 
 - Arrays are great for situations where the number of elements is fixed or predictable.
 - Arrays are efficient for reading values but can be slow for inserting or deleting elements in the middle.
 
+### Time Complexity:
+- **Access**: O(1)
+- **Search**: O(n)
+- **Insertion**: O(n) (at arbitrary positions)
+- **Deletion**: O(n)
+
 ### Note for JavaScript:
 - Arrays in JavaScript are **dynamic**, meaning their size can change during runtime. You can add or remove elements without worrying about the initial array size.
 

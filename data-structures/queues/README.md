@@ -6,10 +6,16 @@ A queue is a linear data structure that follows the First In, First Out (FIFO) p
 ## Key Points:
 - Follows the **FIFO** (First In, First Out) principle.
 - Common operations include:
-    - **Enqueue**: Add an element to the end of the queue.
-    - **Dequeue**: Remove the front element from the queue.
-    - **Peek**: Look at the front element without removing it.
-    - **isEmpty**: Check if the queue is empty.
+  - **Enqueue**: Add an element to the end of the queue.
+  - **Dequeue**: Remove the front element from the queue.
+  - **Peek**: Look at the front element without removing it.
+  - **isEmpty**: Check if the queue is empty.
+
+### Time Complexity:
+- **Access**: O(n)
+- **Search**: O(n)
+- **Insertion (enqueue)**: O(1)
+- **Deletion (dequeue)**: O(1)
 
 ### Note for JavaScript:
 - In JavaScript, you can implement a queue using an array. The native methods `push()` and `shift()` can be used to add and remove elements in a FIFO manner. However, using arrays in this way may not be the most efficient for large queues, as `shift()` can be costly due to reindexing.
