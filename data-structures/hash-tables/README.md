@@ -76,7 +76,7 @@ When the load factor becomes too high, the hash table needs to **resize** to mai
 - **Complex Resizing Logic**: When the table is resized, rehashing all elements can be computationally expensive.
 
 ---
-
+ 
 ## Hash Table vs Other Data Structures
 | Feature           | Hash Table         | Array             | Linked List      | Binary Search Tree |
 |-------------------|--------------------|-------------------|-----------------|--------------------|
