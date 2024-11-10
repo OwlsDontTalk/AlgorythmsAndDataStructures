@@ -37,7 +37,4 @@ stack.push(5); // Stack: [5]
 stack.push(10); // Stack: [5, 10]
 console.log(stack.pop()); // 10
 console.log(stack.peek()); // 5
-const arrayStack = [];
-arrayStack.push(1); // Push to stack
-arrayStack.push(2); // Push to stack
-console.log(arrayStack.pop()); // Pop from stack -> Output: 2
+stack.printStack();
