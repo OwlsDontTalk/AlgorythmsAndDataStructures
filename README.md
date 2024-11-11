@@ -11,8 +11,9 @@ This repository contains various data structures and algorithms implemented in J
 - [Arrays](./data-structures/arrays/README.md)
 - [Linked Lists](./data-structures/linked-lists/README.md)
 - [Stacks](./data-structures/stacks/README.md)
-- [Queues](./data-structures/queues/README.md)
+- [Queue](./data-structures/queue/README.md)
 - [Hash Tables](./data-structures/hash-tables/README.md)
+- [Stacks](./data-structures/stacks/README.md)
 
 ### Algorithms:
 - [Algorithms](./algorithms/README.md)

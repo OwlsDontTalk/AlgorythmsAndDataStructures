@@ -113,6 +113,8 @@ algorithms.
 2. **Event Queue in JavaScript**: Used in the event loop to manage asynchronous events.
 3. **Queue in Networking**: Manage packet transmission in the order they arrive.
 4. **Simulation Systems**: Model real-world systems like airport check-in or bank queues.
+5. **EventBus**: Sequentially handle events published by different parts of an application, ensuring that events are
+   processed in the order they arrive.
 
 ---
 
